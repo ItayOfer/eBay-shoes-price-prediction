@@ -6,7 +6,7 @@ Me and my friend Yoni, used the attached dataset to predict different prices of 
 
 ## Walkthrough
 
-You can find here the model itself, and a PDF file named "Modelling" which explains by detail every step of our modelling procedure.
+You can find here the model itself, and a PDF file named ["Modelling"](https://github.com/ItayOfer/eBay-shoes-price-prediction/blob/main/Modelling.pdf) which explains by detail every step of our modelling procedure.
 
 ## The result
 
